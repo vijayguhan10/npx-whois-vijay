@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.buttercms.com/NFhF3dWBTf5wPnfTsdjR" alt="npm" height="36" />
+  <img src="https://cdn.buttercms.com/NFhF3dWBTf5wPnfTsdjR" alt="npm" height="full" width="full" />
 </p>
 
 # whois-vijay
