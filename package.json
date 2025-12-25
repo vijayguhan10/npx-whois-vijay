@@ -1,0 +1,34 @@
+{
+  "name": "whois-vijay",
+  "version": "1.0.3",
+  "description": "Terminal profile of Vijay — backend, systems, distributed thinking",
+  "type": "module",
+  "bin": {
+    "whois-vijay": "./bin/index.js"
+  },
+  "keywords": [
+    "cli",
+    "backend",
+    "systems",
+    "developer",
+    "terminal",
+    "profile"
+  ],
+  "author": "Vijay",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "boxen": "^7.1.1",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.12",
+    "ora": "^8.0.1",
+    "commander": "^11.1.0",
+    "axios": "^1.6.2",
+    "gradient-string": "^2.0.2",
+    "chalk-animation": "^2.0.3",
+    "nanospinner": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
