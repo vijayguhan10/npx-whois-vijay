@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.npmjs.com/images/npmlogo.svg" alt="npm" height="36" />
+  <img src="https://cdn.buttercms.com/NFhF3dWBTf5wPnfTsdjR" alt="npm" height="36" />
 </p>
 
 # whois-vijay
